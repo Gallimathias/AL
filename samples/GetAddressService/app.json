@@ -11,8 +11,8 @@
   "url": "", 
   "logo": "",
   "capabilities": [],
-  "application": "11.0.0.0",
-  "platform": "11.0.0.0",
+  "application": "12.0.0.0",
+  "platform": "12.0.0.0",
   "screenshots": [],
   "features": ["TranslationFile"],
   "idRange": {
